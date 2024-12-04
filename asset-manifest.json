@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React_bachhoaxanh/static/css/main.52e6533f.css",
+    "main.js": "/React_bachhoaxanh/static/js/main.def410f6.js",
+    "static/js/453.8f996151.chunk.js": "/React_bachhoaxanh/static/js/453.8f996151.chunk.js",
+    "index.html": "/React_bachhoaxanh/index.html",
+    "main.52e6533f.css.map": "/React_bachhoaxanh/static/css/main.52e6533f.css.map",
+    "main.def410f6.js.map": "/React_bachhoaxanh/static/js/main.def410f6.js.map",
+    "453.8f996151.chunk.js.map": "/React_bachhoaxanh/static/js/453.8f996151.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.52e6533f.css",
+    "static/js/main.def410f6.js"
+  ]
+}
